@@ -78,4 +78,7 @@ use the "regex" feature of the "%{crate}" crate.
 %endif
 
 %changelog
+* Fri Feb 09 2024 Dorinda Bassey <dbassey@redhat.com>
+- new package built with tito
+
 %autochangelog
